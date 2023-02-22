@@ -7,3 +7,5 @@ I used High on Life as a little modification with LEZ and Kenny.
 It do like the app because of Lez.
 Yea, just saying "Let's do it!" still reminds me of Golang.
 I might reconsider changing my fun programs to C++.
+It would have been good if i included the "WE DID IT!"
+I need a little time to upgrade this
